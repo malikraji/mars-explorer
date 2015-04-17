@@ -1,2 +1,3 @@
 # mars-explorer
-A game on survival on mars through exploration.
+Welcome.
+Mars explorer is a game on survival on mars through exploration.
